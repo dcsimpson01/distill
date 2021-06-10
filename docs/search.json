@@ -2,11 +2,10 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this site",
-      "description": "Some additional details about the website",
+      "title": "David Simpson",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2021-06-10T14:04:59-05:00"
+      "contents": "\n\n          \n          \n          distill\n          \n          \n          Home\n          About\n          ☰\n          \n          \n      \n        \n          \n            David Simpson\n          \n          \n            \n              I am a Political Science doctoral student at Columbia University specializing in American Politics and Political Economy.\n            \n            \n              I am a Political Science doctoral student at Columbia University specializing in American Politics and Political Economy.\n            \n          \n\n          \n            \n              \n                  \n                    \n                      LinkedIn\n                    \n                  \n                \n                                \n                  \n                    \n                      Twitter\n                    \n                  \n                \n                                \n                  \n                    \n                      GitHub\n                    \n                  \n                \n                                \n                  \n                    \n                      Email\n                    \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                    LinkedIn\n                  \n                \n                                \n                  \n                    Twitter\n                  \n                \n                                \n                  \n                    GitHub\n                  \n                \n                                \n                  \n                    Email\n                  \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2021-06-10T14:14:59-05:00"
     },
     {
       "path": "index.html",
@@ -14,7 +13,7 @@
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-06-10T14:04:59-05:00"
+      "last_modified": "2021-06-10T14:15:00-05:00"
     }
   ],
   "collections": []
