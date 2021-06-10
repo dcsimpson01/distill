@@ -1,5 +1,5 @@
 ---
-title: "distill"
+title: "Sample Distill Website"
 description: |
   Welcome to the website. I hope you enjoy it!
 site: distill::distill_website
@@ -16,3 +16,4 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
+Welcome to my sample distill website. I created this sample website following the steps in the Introduce Yourself Online [workshop](https://iyo-rstudio-global.netlify.app/collection/day01/03-distill/).
